@@ -10,11 +10,11 @@ h2 {
   font-size: 30px;
 }
 
-.flexible-content{
+.flexible-content {
   display: flex;
   margin-bottom: 150px;
 }
-.half-width{
+.half-width {
   width: 40%;
   float: left;
   padding-left: 6%;
@@ -28,8 +28,8 @@ h2 {
 .link-btn {
   text-decoration: none;
   background-image: linear-gradient(orange, tomato);
-  padding: 10px 40px; 
-  color: white; 
+  padding: 10px 40px;
+  color: white;
   font-weight: 700;
   border-radius: 5px;
 }
@@ -39,9 +39,8 @@ h2 {
   background-repeat: no-repeat;
 }
 
-
 /* this is dream big area  */
-.dream-banner{
+.dream-banner {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
@@ -49,29 +48,30 @@ h2 {
 
 /* this is experience area */
 
-.experience-area{
+.experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
 }
 
-.content-heading{
+.content-heading {
   text-align: center;
+  padding-bottom: 25px;
 }
-.developer-area{
+.developer-area {
   box-shadow: 10px 10px 40px gray;
   width: 80%;
   margin-left: 5%;
   margin-right: 5%;
   padding-left: 20px;
 }
-#exp-left{
+#exp-left {
   border-left: 5px solid tomato;
 }
-#exp-right{
+#exp-right {
   border-left: 5px solid blue;
 }
 
 /* footer area */
-footer p{
+footer p {
   text-align: center;
 }
